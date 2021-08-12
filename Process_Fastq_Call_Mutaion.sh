@@ -1,7 +1,7 @@
 # @Author: Ya Han
 # @Dat: 2020-08-11
 # @Last Modified by: Ya
-# @Last Modified time: 2020-09_-07 15:07
+# @Last Modified time: 2020-09_07 15:07
 
 # Note:
 # The analysis starts from a fastq file, and then perform quality control for fastq file, mapping, quality control for bam file, mutation calling and mutation filtering.
