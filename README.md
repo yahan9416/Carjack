@@ -1,1 +1,1 @@
-Carjack is an integrated analysis code for single cell RNAseq TME.
+Carjack is an integrated analysis code.
