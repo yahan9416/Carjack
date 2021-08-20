@@ -1,6 +1,6 @@
 <a href=""><img src="" alt="DOI"></a>
 # Dynamic Landscape of Oral Carcinogenesis Reveals Multistage Malignant Transcriptional Programs
-Understanding composition changes among tumor initiation and progression is critical to characterize the tumor microenvironment of oral cancer.
+Understanding composition changes among tumor initiation and progression is critical to characterize the tumor microenvironment of oral cancer. The script of the analysis saves here.
 ## Environment 
     Ubuntu 9.3.0
     R version 4.0.5	
